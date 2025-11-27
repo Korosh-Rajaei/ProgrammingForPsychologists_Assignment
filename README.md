@@ -1,10 +1,10 @@
 # **ProgrammingForPsychologists_Assignment**
-# Python program indictaing the brain regions associated with psychological phenomenon
+# Python program indicating the brain regions associated with a psychological phenomenon
 - Korosh Rajaei  
 - Date of completion: November 25, 2025  
 - [Link to the Neurosynth reward anticipation page](https://neurosynth.org/analyses/terms/reward%20anticipation/)  
 ## **Project Description**
-In this project, I have written a pyhton program that shows the brain areas activated in reward anticipation (data from Neurosynth, metal analysis of 92 studies). However, I wrote the program (functional programming paradigm) in a way that it is flexible to be used with different psychological data from Neurosynth. Here, I show that reward anticipation is mostly associated with ventral striatum, nucleus accumbens, and ventral tegmental area.
+In this project, I have written a Python program that shows the brain areas activated in reward anticipation (data from Neurosynth, meta-analysis of 92 studies). However, I wrote the program (functional programming paradigm) in a way that it is flexible to be used with different psychological data from Neurosynth. Here, I show that reward anticipation is mostly associated with the ventral striatum, nucleus accumbens, and ventral tegmental area.
 
 ---
 
