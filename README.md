@@ -20,8 +20,8 @@ In this project, I have written a Python program that shows the brain areas acti
 The data and files were downloaded from Neurosynth.  
 | File Name       | Description |
 |-----------------|-------------|
-| `anatomical.nii.gz`      | Contains the anatomical scan of the brain. |
-| `reward anticipation_uniformity-test_z_FDR_0.01.nii.gz`      | Contains the brain functional data of reward anticipation |
+| `anatomical.nii.gz`      | Contains the anatomical scan of the brain from Neurosynth. |
+| `reward anticipation_uniformity-test_z_FDR_0.01.nii.gz`      | Contains the brain functional data of reward anticipation from Neurosynth. |
 
 ---
 
